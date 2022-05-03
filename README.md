@@ -1,13 +1,8 @@
 <html>
  <head>
  <style>
-   body{
-    background-color: #FFFFFF
-	color: black;
-	font-size: 25pt;
-   } 
-   ul{
-   color: red;
+body{background-color: #FFFFFF; color: black; font-size: 25pt} 
+   ul{color: red;
    }
    
   </style>
