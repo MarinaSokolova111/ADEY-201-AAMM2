@@ -35,3 +35,31 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<html>
+ <head>
+ <style>
+   body{
+    background-color: #3366CC;
+	color: white;
+	font-size: 25pt;
+   } 
+   ul{
+   color: red;
+   }
+   
+  </style>
+ </head>
+ <body>
+ <p align="center"> Главная страница</p>
+ <p><img src="main.png" 
+  width="100" height="100" alt="picture1_desc"></p>
+ <ul>
+  <li><a href="1.html">1 страница</a></li>
+  <li><a href="2.html">2 страница</a></li>
+  <li><a href="3.html">3 страница</a></li>
+  <li><a href="4.html">4 страница</a></li>
+</ul>
+ </body>
+</html>
+
