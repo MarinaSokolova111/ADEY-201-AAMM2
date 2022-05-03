@@ -10,9 +10,29 @@
 - Семь!
 - Да, совершенно верно! Сем-восем... где-то так...
 
+
 <html>
+<head>
+<style>
+body{
+background-color: #33ABCC;
+color: white;
+font-size: 25pt;
+}
+#id1 {
+position: absolute;
+bottom: 0;
+left: 0;
+}
+</style>
+</head>
 <body>
-<p align="center"> Страница 4</p>
-<p><img src="4.png" ></p>
+<p align="center">ВАШ ЗАГОЛОВОК СТРАНИЦЫ</p>
+<p>ВАШ ТЕКСТ</p>
+<p><img src="ВАША ССЫЛКА НА КАРТИНКУ" width="100" height="100" alt="picture4_desc"></p>
+<p><font color="Orange" size="25" face="Courier New">Текст на четвертой странице</font></p>
+<div id="id1">
+<p><a href="main.html">Главная страница</a> </p>
+</div>
 </body>
 </html>
